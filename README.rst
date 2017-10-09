@@ -1,10 +1,11 @@
-Simple DSL in Python
-====================
+Writing a Simple DSL in Python
+==============================
 
-This is the source code for a tutorial I wrote for Dan Bader's blog at `dbader.org <https://dbader.org/>`_
-titled: Writing A Simple DSL in Python: A tutorial on creating a domain specific language.
+This is the source code for a tutorial I wrote for Dan Bader's blog
+at `dbader.org <https://dbader.org/>`_: Writing A Simple DSL in Python: A tutorial on
+creating a domain specific language.
 
-Dan's spent a lot of time and put together a ton of very high-quality resources on his
+Dan's spent a lot of time putting together a ton of very high-quality resources on his
 site `dbader.org <https://dbader.org/>`_ and
 YouTube channel `Python Training by Dan Bader <https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA>`_.
 
